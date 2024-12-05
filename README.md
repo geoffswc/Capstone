@@ -25,4 +25,7 @@ csv formatted temperature and humidity data used by regression.ipynb
 
 The following graphics are useful here
 
+![Regression](graphics/regression.png)
+
+
 
