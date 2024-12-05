@@ -20,3 +20,9 @@ the data directory contains data required by the notebooks
 ### regression.csv
 
 csv formatted temperature and humidity data used by regression.ipynb
+
+## Graphics
+
+The following graphics are useful here
+
+
