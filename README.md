@@ -1,6 +1,14 @@
 # Capstone
 sample repo for capstone project
 
+## Table of Contents
+- [Overview](#overview)
+- [Code](#code)
+- [Data](#data)
+- [Graphics](#graphics)
+- [License](#license)
+
+
 ## Overview
 
 Overview of repo
@@ -26,6 +34,10 @@ csv formatted temperature and humidity data used by regression.ipynb
 The following graphics are useful here
 
 ![Regression](graphics/regression.png)
+
+## License
+
+MIT license
 
 
 
